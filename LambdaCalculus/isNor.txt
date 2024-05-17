@@ -1,0 +1,1 @@
+(λ a . a (λ t f . f) (λ t f . f) (λ t f . a (λ t f . f) (λ t f . t) f t) (λ t f . a (λ t f . t) (λ t f . t) f t))

@@ -1,0 +1,1 @@
+(λ n . ZERO ( n (λ b . (λ t . ZERO ( - t 2 ) t ( - t 3 )) b) n ))

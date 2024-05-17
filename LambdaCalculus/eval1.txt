@@ -1,0 +1,6 @@
+(λ y x x . x ( x y y ) x) ( y x ) ( x x )
+(λ a x x . x ( x a a ) x) ( y x ) ( x x )
+(λ a x b . b ( b a a ) b) ( y x ) ( x x )
+(λ a c b . b ( b a a ) b) ( y x ) ( x x )
+(λ c b . b ( b ( y x ) ( y x ) ) b) ( x x )
+(λ b . b ( b ( y x ) ( y x ) ) b)
